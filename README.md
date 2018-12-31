@@ -16,6 +16,6 @@ In order for this to work, you must have remote connections via HTTP enabled on 
 Next you need to edit the config.ini
   - Port : The port use by Kodi
   - Credential : Your username and your password (you need to add ':' between there 2 information )
-  - tmdbApi : Your for the TMDB api (optional)
+  - tmdbApi : Your key for the TMDB api (optional)
   
 And after run the script
